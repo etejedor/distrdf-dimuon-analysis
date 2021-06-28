@@ -1,2 +1,2 @@
-# distrdf-dimuon-analysis
-Notebook examples for demoing DistRDF features
+# Distributed RDataFrame Notebooks
+Notebook examples for demoing distributed RDataFrame features.
